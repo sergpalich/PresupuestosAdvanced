@@ -1,0 +1,42 @@
+{
+    "semanas": [
+      {
+        "semana": 1,
+        "gastos": [
+          { "dia": "dl", "amount": 250 },
+          { "dia": "dt", "amount": 480 },
+          { "dia": "dc", "amount": 510 },
+          { "dia": "dj", "amount": 320 },
+          { "dia": "dv", "amount": 230 },
+          { "dia": "ds", "amount": 480 },
+          { "dia": "diu", "amount": 600 }
+        ]
+      },
+      {
+        "semana": 2,
+        "gastos": [
+          { "dia": "dl", "amount": 350 },
+          { "dia": "dt", "amount": 400 },
+          { "dia": "dc", "amount": 550 },
+          { "dia": "dj", "amount": 200 },
+          { "dia": "dv", "amount": 300 },
+          { "dia": "ds", "amount": 600 },
+          { "dia": "diu", "amount": 700 }
+        ]
+      },
+      {
+        "semana": 3,
+        "gastos": [
+          { "dia": "dl", "amount": 150 },
+          { "dia": "dt", "amount": 500 },
+          { "dia": "dc", "amount": 300 },
+          { "dia": "dj", "amount": 240 },
+          { "dia": "dv", "amount": 100 },
+          { "dia": "ds", "amount": 100 },
+          { "dia": "diu", "amount": 100 }
+        ]
+      }
+    ]
+  }
+  
+  

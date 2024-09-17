@@ -1,0 +1,10 @@
+{
+    "balance_total": "Balance total: {{total}} €",
+    "day_expense": "Gasto del hoy: {{dia}}",
+    "expense": "Gasto: {{amount}} €",
+    "difference": "Diferencia con ayer: {{diferencia}}%",
+    "previous": "←",
+    "next": "→",
+    "weekly_expenses": "Gastos Semanales: {{week}}"
+  }
+  

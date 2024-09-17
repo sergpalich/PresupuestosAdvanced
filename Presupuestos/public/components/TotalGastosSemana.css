@@ -1,0 +1,16 @@
+.total-gastos-semana {
+    background-color: orange;
+    border-radius: 10px;
+    padding: 20px;
+    width: 600px;       /* Ocupa el 50% del ancho de la página */
+    height: 100px;    /* Altura de 100px */
+    display: flex;
+    justify-content: justify-between;
+    align-items: center;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .total-gastos-semana h2 {
+    margin: 0;
+  }
+  
