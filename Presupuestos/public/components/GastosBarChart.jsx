@@ -12,9 +12,9 @@ const GastosBarChart = ({ semanaActual, onBarClick }) => {
     labels: semana.gastos.map((gasto) => gasto.dia),
     datasets: [
       {
-        label: `Gastos de la Semana ${semana.semana}`,
+        label: `Week expenses ${semana.semana}`,
         data: semana.gastos.map((gasto) => gasto.amount),
-        backgroundColor: 'rgba(75, 192, 192, 0.6)',
+        backgroundColor: 'orange',
         borderColor: 'rgba(75, 192, 192, 1)',
         borderWidth: 1,
       },

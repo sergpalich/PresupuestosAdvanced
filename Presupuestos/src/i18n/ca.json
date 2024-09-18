@@ -1,8 +1,8 @@
 {
     "balance_total": "Balanç total: {{total}} €",
     "day_expense": "Despesa d'avui: {{dia}}",
-    "expense": "Despesa: {{amount}} €",
-    "difference": "Diferència amb ahir: {{diferencia}}%",
+    "expense": "{{amount}} €",
+    "difference": "Dif amb ahir: {{diferencia}}%",
     "previous": "←",
     "next": "→",
     "weekly_expenses": "Despeses setmanals: {{week}}"

@@ -1,10 +1,11 @@
 {
     "balance_total": "Total balance: {{total}} €",
-    "day_expense": "Expense for today: {{dia}}",
-    "expense": "Expense: {{amount}} €",
-    "difference": "Difference with yesterday: {{diferencia}}%",
+    "day_expense": "Today´s exp: {{dia}}",
+    "expense": " {{amount}} €",
+    "difference": "Diff with yesterday: {{diferencia}}%",
     "previous": "←",
     "next": "→",
     "weekly_expenses": "Weekly Expenses: {{week}}"
+    
   }
   
